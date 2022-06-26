@@ -66,3 +66,8 @@ LPS:NewButton("Default Speed & Jump", "Sets speed and jump power to default.", f
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = 20
 end)
+
+print("Nexus Loaded Sucessfully!")
+print("Report issues to github repository.")
+print("If you need support, join the discord server:")
+print("https://discord.gg/WMFbS69VDq")
