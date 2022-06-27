@@ -50,6 +50,10 @@ HomeSection:NewButton("CMD-X", "CMD-X is so OP, its very epic!", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()
 end)
 
+HomeSection:NewButton("Nexus Calico (coming soon)", "Nexus Calico lol.", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DevXternal/Nexus/main/Nexus%20Calico.lua"))()
+end)
+
 -- Player
 local LP = Window:NewTab("Local Player")
 local LPS = LP:NewSection("Local Player Options")
