@@ -50,8 +50,8 @@ HomeSection:NewButton("CMD-X", "CMD-X is so OP, its very epic!", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()
 end)
 
-HomeSection:NewButton("Nexus Calico (coming soon)", "Nexus Calico lol.", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/DevXternal/Nexus/main/Nexus%20Calico.lua"))()
+HomeSection:NewButton("Nexus Trico (coming soon)", "hamburger.", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DevXternal/Nexus/main/Nexus%20Trico.lua"))()
 end)
 
 -- Player
