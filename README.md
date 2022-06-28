@@ -1,4 +1,3 @@
-# Nexus
 ## What is Nexus?
 Nexus is a script hub that has lots of scripts so you dont have to type them, the design is sweet and compact.
 ## Why use nexus?
