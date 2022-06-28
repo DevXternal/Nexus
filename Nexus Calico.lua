@@ -1,4 +1,2 @@
---[[
-Nexus Calico Edition coming soon!
-you can help me by contributing to this code.
-]]--
+-- Note that executing Nexus Calico is not available for every game, you need to own the game to execute Nexus Calico
+require(10047214506).NexusCal("ur username here")
