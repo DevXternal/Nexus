@@ -82,7 +82,7 @@ end)
 
 -- Animations
 local A = Window:NewTab("Animations")
-local AS = AS:NewSection("Animations lol.")
+local AS = A:NewSection("Animations lol.")
 
 AS:NewButton("nameless animations v4", "Epic, recommend.", function()
     --[[
