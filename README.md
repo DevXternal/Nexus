@@ -3,11 +3,16 @@ Nexus is a script hub that has lots of scripts so you dont have to type them, th
 ## Why use nexus?
 cause why not lol.
 ## How do i load Nexus?
-Type this into your script executor: `loadstring(game:HttpGet("https://raw.githubusercontent.com/DevXternal/Nexus/main/Nexus.lua"))()`
+Type this into your script executor:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevXternal/Nexus/main/Nexus.lua"))()
+```
 ## When will new updates arrive?
 Whenever i add new scripts and fun stuff to mess with. lol.
 ## What was Nexus made with
 Nexus Script hub was made using the <a href="https://xheptcofficial.gitbook.io/kavo-library/">Kavo UI Libary.</a>
 ## Load different versions:
 Use the Nexus Loader script:
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/Devxternal/Nexus/main/Loader.lua"))()`
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Devxternal/Nexus/main/Loader.lua"))()
+```
